@@ -1,4 +1,4 @@
-### Hi, I'm Fusuke Yasuda / 安田 風介 👋
+### Hi, I'm Fusuke Yasuda 👋
 
 - 日本出身のCS学生です。2026年11月からマレーシアの Multimedia University (MMU) でコンピュータサイエンスを学びます。
 - 独立リーグ球団・和歌山ウェイブスで初めてのインターンを経験しました。
