@@ -10,6 +10,7 @@
 
 | Project | Description | Demo |
 |---|---|---|
+| [CampusRun](https://github.com/balloonnfusuuke/campusrun-showcase) | MMU の学生同士でおつかい・代行購入をマッチングする Web アプリ（ソースは非公開、紹介用リポジトリ）/ Student-to-student errand & delivery board for MMU (Next.js, Supabase; source private) | [Live](https://campusrun-eight.vercel.app) |
 | [indiebaseball](https://github.com/balloonnfusuuke/indiebaseball) | 独立リーグ向け成績管理アプリ。打席・一球ごとの手入力から OPS・FIP などを自動計算 / Stats manager with manual play-by-play entry and auto-calculated stats | [Demo](https://indiebaseball.vercel.app) |
 | [baseball_track](https://github.com/balloonnfusuuke/baseball_track) | 投球動画に手動で点をマークし、球速・変化量を推定する実験的ツール / Experimental pitch analysis from a single-camera video | [Demo](https://baseball-track.vercel.app) |
 | [ABBS](https://github.com/balloonnfusuuke/ABBS) | 日本の独立リーグとアジアの選手をつなぐスカウト用ダッシュボード / Scouting dashboard concept connecting Japanese indie leagues and Asian players | [Demo](https://abbs-sage.vercel.app) |
